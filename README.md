@@ -97,7 +97,7 @@ Explore using the slicers (date, category, region) to deep-dive into specific ar
 📬 Contact
 For questions or collaboration opportunities:
 
-Adarsh Sharma
-Data Analyst | Power BI Enthusiast
-📧 3010adarshsharma@gmail.com
-📱 7873610957
+## Adarsh Sharma
+## Data Analyst | Power BI Enthusiast
+## 📧 3010adarshsharma@gmail.com
+## 📱 7873610957

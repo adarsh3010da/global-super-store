@@ -1,4 +1,4 @@
-#📊 Global Superstore Dashboard – README
+#📊 Global Superstore Dashboard
 🧭 Project Overview
 The Global Superstore Dashboard is an interactive business intelligence solution built to analyze and visualize retail data across regions, categories, and customer segments. The dashboard empowers stakeholders to identify key performance drivers, monitor sales trends, and uncover opportunities for strategic growth using data-driven insights.
 
